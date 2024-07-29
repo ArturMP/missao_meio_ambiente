@@ -49,7 +49,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Eu corrigo ele e peço para ele pegar o papel do chão para descartar no ligar correto",
-                afirmacao: "Para você, o correto é "lixo no lixo", se não tem um lixo proximo, segure-o até encontrar um local de descarte correto."
+                afirmacao: "Para você, o correto é 'lixo no lixo', se não tem um lixo proximo, segure-o até encontrar um local de descarte correto."
             },
             {
                 texto: "Eu não faço nada, um papel de bala não vai fazer diferença",
